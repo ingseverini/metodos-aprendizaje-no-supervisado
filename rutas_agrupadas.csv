@@ -1,0 +1,16 @@
+Ruta,Frecuencia (min),Cantidad de pasajeros diarios,Tipo de vehículo,Duración del viaje (min),Distancia (km),Hora de inicio de operación,Hora de fin de operación,Ubicación geográfica,Estado del vehículo,Grupo
+A,15,3540,0,83,17,6:00 AM,6:00 PM,4,1,1
+B,20,1549,1,89,7,5:00 AM,7:00 PM,4,0,1
+C,10,4619,0,74,24,4:00 AM,6:00 AM,0,1,0
+D,18,2435,2,34,21,4:00 AM,6:00 AM,4,0,2
+E,25,3440,1,71,17,7:00 AM,8:00 AM,3,1,1
+F,12,3397,0,66,22,6:00 AM,6:00 AM,0,0,0
+G,30,4000,0,79,10,4:00 AM,7:00 AM,3,0,1
+H,22,2956,2,64,26,5:00 AM,7:00 AM,1,0,0
+I,35,1067,0,30,29,4:00 AM,6:00 AM,4,1,2
+J,27,4379,1,66,26,6:00 AM,6:00 AM,0,0,0
+K,24,2200,2,66,15,4:00 AM,7:00 AM,1,0,1
+L,15,1990,0,31,27,7:00 AM,8:00 AM,2,0,2
+M,28,2106,1,80,12,5:00 AM,6:00 AM,0,0,1
+N,20,1811,0,83,12,4:00 AM,6:00 AM,1,0,1
+O,30,3620,2,61,23,5:00 AM,7:00 AM,3,0,2

@@ -1,0 +1,16 @@
+Ruta;Frecuencia (min);Cantidad de pasajeros diarios;Tipo de vehículo;Duración del viaje (min);Distancia (km);Hora de inicio de operación;Hora de fin de operación;Ubicación geográfica;Estado del vehículo
+A;15;3540;Bus;83;17;6:00 AM;6:00 PM;Zona Sur;Operativo
+B;20;1549;Teleferico;89;7;5:00 AM;7:00 PM;Zona Sur;En mantenimiento
+C;10;4619;Bus;74;24;4:00 AM;6:00 AM;Zona Centro;Operativo
+D;18;2435;Tren;34;21;4:00 AM;6:00 AM;Zona Sur;En mantenimiento
+E;25;3440;Teleferico;71;17;7:00 AM;8:00 AM;Zona Oeste;Operativo
+F;12;3397;Bus;66;22;6:00 AM;6:00 AM;Zona Centro;En mantenimiento
+G;30;4000;Bus;79;10;4:00 AM;7:00 AM;Zona Oeste;En mantenimiento
+H;22;2956;Tren;64;26;5:00 AM;7:00 AM;Zona Este;En mantenimiento
+I;35;1067;Bus;30;29;4:00 AM;6:00 AM;Zona Sur;Operativo
+J;27;4379;Teleferico;66;26;6:00 AM;6:00 AM;Zona Centro;En mantenimiento
+K;24;2200;Tren;66;15;4:00 AM;7:00 AM;Zona Este;En mantenimiento
+L;15;1990;Bus;31;27;7:00 AM;8:00 AM;Zona Norte;En mantenimiento
+M;28;2106;Teleferico;80;12;5:00 AM;6:00 AM;Zona Centro;En mantenimiento
+N;20;1811;Bus;83;12;4:00 AM;6:00 AM;Zona Este;En mantenimiento
+O;30;3620;Tren;61;23;5:00 AM;7:00 AM;Zona Oeste;En mantenimiento
